@@ -31,8 +31,9 @@ img {
 html,
 body {
   height: 100%;
-  background-color: #fdde6a;
-  /*font-family: ;*/
+  /*background-color: #fdde6a;*/
+  background-color: #d3dbda;
+  font-family: 'Roboto', sans-serif;
 }
 
 body {
@@ -111,5 +112,5 @@ body {
  * Footer
  */
 .mastfoot {
-  color: #005985;
+  color: #006b53;
 }
